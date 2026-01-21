@@ -1,136 +1,159 @@
 <h1 align="center">Hi 👋, I'm Prithish Misra</h1>
+<h3 align="center">Building at the intersection of Technology × Finance</h3>
 
 <p align="center">
-💡 Tech • 💰 Finance • 📈 Stock Market • 🚀 Startups <br>
-☕ Building <b>Code Capital & Coffee</b> — Projects + Content + Community
+  <a href="mailto:prithishmisra23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-prithishmisra23%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prithish-misra-8531a2341" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Prithish%20Misra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/_prithish_" target="_blank">
+    <img src="https://img.shields.io/badge/X-@_prithish_-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://t.me/codecapitalcoffee" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@codecapitalcoffee" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Code%20Capital%20%26%20Coffee-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-<a href="mailto:prithishmisra23@gmail.com"><img src="https://img.shields.io/badge/Email-prithishmisra23%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/prithish-misra-8531a2341" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Prithish%20Misra-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/codecapitalcoffee" target="_blank"><img src="https://img.shields.io/badge/Telegram-Code%20Capital%20%26%20Coffee-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
-<a href="https://x.com/_prithish_" target="_blank"><img src="https://img.shields.io/badge/X-@_prithish_-111?style=flat&logo=x&logoColor=white"/></a>
-<a href="https://www.youtube.com/@codecapitalcoffee" target="_blank"><img src="https://img.shields.io/badge/YouTube-Code%20Capital%20%26%20Coffee-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
-<a href="https://medium.com/@prithishmishra2209" target="_blank"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=flat&logo=medium&logoColor=white"/></a>
-<a href="https://www.kaggle.com/prithishmisra" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Prithish%20Misra-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=prithishmisra23&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=prithishmisra23&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Status-Building%20Daily-brightgreen?style=flat" alt="status" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE @ **SRM Institute of Science & Technology (KTR), Chennai**
-- 🧠 I work at the intersection of **AI, Full-Stack Development, Finance & Markets**
-- 🔥 Building a long-term personal ecosystem: **Code Capital & Coffee**
-- 📌 I believe in **execution > motivation** and **systems > goals**
-- 📫 Reach me: **prithishmisra23@gmail.com**
+
+🎓 **B.Tech CSE** at SRM Institute of Science & Technology, Chennai  
+🧠 **Building** AI-powered finance tools and systems  
+📌 **Believe** in execution > motivation, systems > goals  
+☕ **Building** Code Capital & Coffee (Projects + Content + Community)  
+
+> *I explore how technology can democratize financial intelligence and create smarter systems.*
 
 ---
 
-## 🧭 Code Capital & Coffee (My Focus)
-**Code** → build real products  
-**Capital** → learn markets + money systems  
-**Coffee** → consistency + discipline ☕
+## 🏢 Experience
 
-What I do here:
-- ⚡ Ship projects weekly (AI x Finance x Startup tools)
-- 📚 Document learning (notes, experiments, mini-builds)
-- 🤝 Grow a community of students and builders
+| Role | Company | Impact |
+|------|---------|--------|
+| Growth Navigator Intern | Maangler | Drove 30K+ impressions |
+| Business Development Intern | GAOTek Inc. | Automated 1000+ email workflows |
+| AI/ML Intern | Google for Developers (AICTE) | Built ML pipelines & projects |
+| Content Writer | Pehchaan The Street School | Long-form impact writing |
+| Campus Ambassador | MyGov India | Student outreach & engagement |
+| Mentor | topmate.io | Technical guidance |
 
----
-
-## 🏢 Experience Snapshot
-- 📈 **Growth Navigator Intern @ Maangler** — Driving growth & engagement (**30K impressions**)
-- 💼 **Business Development Intern @ GAOTek Inc.** — Outreach automation + CRM workflows (**1000+ emails executed**)
-- 🤖 **AI/ML Virtual Intern @ Google for Developers (EduSkills | AICTE)** — ML workflows + projects
-- ✍️ **Content Writer @ Pehchaan The Street School** — long-form impact writing + storytelling
-- 🌍 **MyGov India — Campus Ambassador**
-- 🧠 **Mentor @ topmate.io**
-- 🧩 **IEEE Computer Society SRMIST — Technical Team**
-- 🚀 **E-Cell SRMIST — Corporate Member**
-- 🏗️ **TeamTechTonics — Co-Founder**
+**Leadership:** Co-Founder @ TeamTechTonics • Technical Team @ IEEE CS SRMIST • Corporate Member @ E-Cell SRMIST
 
 ---
 
 ## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **AI/ML**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
-## 📌 Featured Builds (Pinned Projects)
-> These are the categories I ship under. Repos will keep expanding.
+## 📈 Featured Projects
 
-- 💹 **MarketPulse** → stock insights + alerts + watchlists  
-- 📊 **Portfolio Backtester** → strategy testing + performance metrics  
-- 🧾 **ExpenseIQ** → finance tracker + dashboard  
-- 🧠 **AI Finance Brief** → daily news summarizer + insights  
-- 🧰 **Outreach Automation Toolkit** → CRM + email workflow templates  
+### **💹 MarketPulse**
+*Stock insights platform with real-time alerts and watchlists*
+
+### **📊 Portfolio Backtester**
+*Strategy testing framework with performance analytics*
+
+### **🧾 ExpenseIQ**
+*Intelligent expense tracking with actionable insights*
+
+### **🧠 AI Finance Brief**
+*Daily market news summarizer with sentiment analysis*
+
+### **⚡ Outreach Automation Toolkit**
+*CRM workflows and email automation templates*
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prithishmisra23&show_icons=true&hide_border=true&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithishmisra23&layout=compact&hide_border=true&langs_count=8" height="160"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prithishmisra23&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithishmisra23&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prithishmisra23&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prithishmisra23&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prithishmisra23&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prithishmisra23&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 🧠 Currently Learning
-- 🤖 Machine Learning + Deep Learning
-- 🌐 Full-Stack Development (MERN)
-- 📈 Finance automation + market research systems
-- ⚙️ Building repeatable workflows (content + code)
+
+- **Machine Learning Engineering** - Advanced ML pipelines
+- **Full-Stack Development** - MERN stack & cloud deployment
+- **Financial Markets** - Quantitative analysis & automation
+- **Product Development** - From idea to scalable solutions
 
 ---
 
-## 🏆 Certifications
-- 📌 Leadership Excellence in Business Management  
-- 📌 Job Search Strategies  
-- 📌 Entrepreneurship Foundations  
-- 📌 Rock Your LinkedIn Profile  
-- 📌 EF SET English Certificate: **78/100 (C2 Proficient)**
+## 📚 Certifications
+
+| Certification | Issuer |
+|--------------|--------|
+| Leadership Excellence in Business Management | LinkedIn |
+| Job Search Strategies | LinkedIn |
+| Entrepreneurship Foundations | LinkedIn |
+| EF SET English Certificate (C2 Proficient) | EF Standard English Test |
 
 ---
 
 ## 🌍 Languages
-- 🇮🇳 Hindi (Native/Bilingual)
-- 🇬🇧 English (Full Professional)
-- 🇩🇪 German (Elementary)
+
+- **Hindi**: Native/Bilingual
+- **English**: Professional Proficiency
+- **German**: Elementary
 
 ---
 
-## 🤝 Let’s Collaborate
-If you’re a **student**, **builder**, or **founder**, I’m open to:
-- AI x Finance mini-projects
-- Hackathons & startup prototypes
-- Content + community collaborations
+## 🤝 Let's Collaborate
 
-📩 DM me on LinkedIn or email: **prithishmisra23@gmail.com**
+I'm open to collaborating on:
+- **AI × Finance projects**
+- **Hackathons & startup prototypes**
+- **Open-source contributions**
+- **Technical content creation**
+
+**📫 Reach me at:** prithishmisra23@gmail.com  
+**💼 Connect on:** [LinkedIn](https://www.linkedin.com/in/prithish-misra-8531a2341)
+
+---
 
 <p align="center">
-☕ Built with consistency — code, capital & coffee.
+  <i>Building with ☕, code, and capital</i><br>
+  <sub>Daily progress > perfect plans</sub>
 </p>
