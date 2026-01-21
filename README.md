@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=prithishmisra&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=prithishmisra23&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -36,98 +36,4 @@
 **Coffee** → consistency + discipline ☕
 
 What I do here:
-- ⚡ Ship projects weekly (AI x Finance x Startup tools)
-- 📚 Document learning (notes, experiments, mini-builds)
-- 🤝 Grow a community of students and builders
-
----
-
-## 🏢 Experience Snapshot
-- 📈 **Growth Navigator Intern @ Maangler** — Driving growth & engagement (**30K impressions**)
-- 💼 **Business Development Intern @ GAOTek Inc.** — Outreach automation + CRM workflows (**1000+ emails executed**)
-- 🤖 **AI/ML Virtual Intern @ Google for Developers (EduSkills | AICTE)** — ML workflows + projects
-- ✍️ **Content Writer @ Pehchaan The Street School** — long-form impact writing + storytelling
-- 🌍 **MyGov India — Campus Ambassador**
-- 🧠 **Mentor @ topmate.io**
-- 🧩 **IEEE Computer Society SRMIST — Technical Team**
-- 🚀 **E-Cell SRMIST — Corporate Member**
-- 🏗️ **TeamTechTonics — Co-Founder**
-
----
-
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
-
----
-
-## 📌 Featured Builds (Pinned Projects)
-> These are the categories I ship under. Repos will keep expanding.
-
-- 💹 **MarketPulse** → stock insights + alerts + watchlists  
-- 📊 **Portfolio Backtester** → strategy testing + performance metrics  
-- 🧾 **ExpenseIQ** → finance tracker + dashboard  
-- 🧠 **AI Finance Brief** → daily news summarizer + insights  
-- 🧰 **Outreach Automation Toolkit** → CRM + email workflow templates  
-
-✅ If you want, I’ll convert these into **real repo names + README templates**.
-
----
-
-## 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prithishmisra&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithishmisra&layout=compact&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prithishmisra&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🧠 Currently Learning
-- 🤖 Machine Learning + Deep Learning
-- 🌐 Full-Stack Development (MERN)
-- 📈 Finance automation + market research systems
-- ⚙️ Building repeatable workflows (content + code)
-
----
-
-## 🏆 Certifications
-- 📌 Leadership Excellence in Business Management  
-- 📌 Job Search Strategies  
-- 📌 Entrepreneurship Foundations  
-- 📌 Rock Your LinkedIn Profile  
-- 📌 EF SET English Certificate: **78/100 (C2 Proficient)**
-
----
-
-## 🌍 Languages
-- 🇮🇳 Hindi (Native/Bilingual)
-- 🇬🇧 English (Full Professional)
-- 🇩🇪 German (Elementary)
-
----
-
-## 🤝 Let’s Collaborate
-If you're a **student**, **builder**, or **founder**, I’m open to:
-- AI x Finance mini-projects
-- Hackathons & startup prototypes
-- Content + community collaborations
-
-📩 DM me on LinkedIn or email: **prithishmisra23@gmail.com**
-
-<p align="center">
-☕ Built with consistency — code, capital & coffee.
-</p>
+- ⚡ Ship projects
