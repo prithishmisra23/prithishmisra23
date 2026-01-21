@@ -80,8 +80,6 @@ What I do here:
 - 🧠 **AI Finance Brief** → daily news summarizer + insights  
 - 🧰 **Outreach Automation Toolkit** → CRM + email workflow templates  
 
-✅ If you want, I’ll convert these into **real repo names + README templates**.
-
 ---
 
 ## 📊 GitHub Analytics
@@ -92,7 +90,11 @@ What I do here:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prithishmisra23&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=prithishmisra23&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prithishmisra23&no-frame=true&row=1&column=6" />
 </p>
 
 ---
