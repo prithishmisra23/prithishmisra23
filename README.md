@@ -131,25 +131,19 @@ Co-Founder @ TeamTechTonics • Technical Team @ IEEE CS SRMIST • Corporate Me
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prithishmisra23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prithishmisra23&theme=tokyonight&hide_border=true" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prithishmisra23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/prithishmisra23)
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithishmisra23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=prithishmisra23&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/prithishmisra23)
 
-<img src="https://github-profile-trophy.vercel.app/?username=prithishmisra23&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prithishmisra23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/prithishmisra23)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=prithishmisra23&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/prithishmisra23)
 
 </div>
 
 ---
 
 ## 🧠 Current Learning Path
-```mermaid
-graph LR
-    A[Machine Learning Engineering] --> B[Advanced ML Pipelines]
-    C[Full-Stack Development] --> D[MERN Stack + Cloud]
-    E[Financial Markets] --> F[Quantitative Analysis]
-    G[Product Development] --> H[Scalable Solutions]
-```
 
 - **Machine Learning Engineering** → Production ML systems & MLOps
 - **Full-Stack Development** → MERN stack, cloud deployment, microservices
@@ -205,6 +199,6 @@ I'm actively seeking collaboration opportunities in:
 
 **⭐ If you find my work interesting, consider starring my repositories!**
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
